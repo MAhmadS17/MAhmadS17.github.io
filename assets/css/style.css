@@ -86,6 +86,8 @@
   padding: 11px 35px;
   background: #fff;
   color: #00796b;
+
+ /* color: #16537e;  */
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +118,11 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+    color: #00796b;    
+
+
+ /*    color: #16537e;   */
+
   background-color: white;
 }
 /* main body */
@@ -140,7 +146,9 @@ body {
 } */
 
 a {
-  color: #004d40;
+ color: #004d40;    
+
+   /*    color:#16537e; */
 }
 
 /* main blockqoute */
@@ -320,7 +328,10 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  /*    background: #a7ffeb repeat;   */
+ background: #16537E repeat;
+
+
   position: relative;
 }
 
@@ -367,7 +378,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+ /*    background-color: rgba(33, 150, 243, 0.2);  */
 }
 
 .card {
@@ -473,7 +484,9 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #004d40 !important;   
+/*   border-bottom: 3px solid #16537e !important;    */
+
 }
 
 #skills .card.large {
@@ -549,7 +562,10 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  /*color: #008073 !important;  */
+
+ color: #16537e !important;
+
 }
 
 /* .teal-text {
@@ -559,7 +575,10 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  /*background-color: #008073 !important;  */
+
+background-color: #16537e !important;
+
 }
 
 /* .teal {
